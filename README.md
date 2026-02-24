@@ -93,7 +93,7 @@ cd langchain-sql-chat
 ### 2️⃣ Create Virtual Environment
 
 ```
-conda create venv/
+conda create -p venv python==3.10 -y
 ```
 
 ### 3️⃣ Install Dependencies
